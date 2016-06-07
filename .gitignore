@@ -49,3 +49,6 @@ pkg
 
 # For rbenv/RVM
 .ruby-version
+
+# For the Google JSON service key ( https://github.com/afeld/face_detect#face-detect )
+google-key.json
